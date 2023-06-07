@@ -1,0 +1,74 @@
+
+.swiper {
+    width: 200px;
+    height: 150px;
+    background-color: aliceblue;
+    margin: auto;
+}
+
+.swiper-wrapper {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    number-align: center;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    margin-top: 17%;
+
+
+}
+.showimg {
+    display: inline-block;
+    width: 200px;
+
+}
+
+#sin td input  {
+    width: 100px;
+}
+
+td {
+    number-align: center
+}
+
+#idleft {
+    display: inline-block;
+    float: left;
+    width: 20%;
+    /* background-color: aliceblue; */
+}
+
+#idhight {
+    display: inline-block;
+    number-align: center;
+    float: right;
+    width: 20%;
+    padding: 20px;
+    /* background-color:aliceblue; */
+}
+
+#inp {
+    width: 30px;
+}
+
+#tdin input  {
+    width: 50px;
+
+}
+
+#idcen {
+    display: inline-block;
+    direction: rtl;
+    width: 60%;
+    padding-top: 20px;
+    /* background-color:aliceblue; */
+}
+
+#radio {
+    /* display: block; */
+    padding: 10px;
+}
+

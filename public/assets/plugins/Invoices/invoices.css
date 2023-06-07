@@ -1,0 +1,90 @@
+
+.showimg {
+    display: inline-block;
+    width: 200px;
+
+}
+
+#sin td input  {
+    width: 100px;
+}
+
+td {
+    text-align: center
+}
+
+.imageleft {
+    width: 30%;
+    display: inline-block;
+
+}
+
+#idleft {
+    display: inline-block;
+
+    width: 35%;
+    /* background-color: aliceblue; */
+}
+
+#idhight {
+    display: inline-block;
+    text-align: center;
+    width: 80%;
+    padding: 10px;
+    /* background-color: bisque; */
+}
+
+#inp {
+    width: 30px;
+}
+
+#tdin input {
+    width: 50px;
+
+}
+
+#idcen {
+    display: inline-block;
+    direction: rtl;
+    width: 60%;
+    padding-top: 20px;
+    background-color: azure;
+}
+
+td input {
+    width: 70px;
+}
+
+.qr {
+    display: inline-block;
+
+    width: 20%;
+    margin-right: 80%;
+    margin-bottom: 5%;
+    /* padding: 10%; */
+    /* background-color: brown; */
+
+}
+#id input{
+    width: 120px;
+}
+
+.counttable {
+    display:inline;
+    float: right;
+    /* margin: 10px; */
+    /* width: 500px; */
+
+    /* background-color: blue; */
+}
+
+
+.counttable h4 {
+    display: inline-block;
+    margin-right: 10%;
+    font-size: 30px;
+}
+
+.styletable td {
+    padding-right: 10px;
+}
